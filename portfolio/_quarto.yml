@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Vidal Tinoco"
+  navbar:
+    left:
+      - href: about.qmd
+        text: Home
+      - href: index.qmd
+        text: Projects
+      - href: resume.qmd
+        text: Resume
+    right:
+      - icon: github
+        href: https://github.com/VidalTinoco
+      - icon: twitter
+        href: https://twitter.com/VidalTiH
+format:
+  html:
+    theme:
+      dark: darkly
+      light: cosmo
+    css: styles.css
+
+editor: visual
+

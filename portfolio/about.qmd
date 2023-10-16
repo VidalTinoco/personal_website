@@ -1,0 +1,21 @@
+---
+title: "Vidal Tinoco"
+image: profile_pic.jpeg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/VidalTiH
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com/VidalTinoco
+    - icon: envelope
+      text: Contact me
+      href: mailto:vidalhum0@gmail.com
+---
+
+Actualmente soy Científico de Datos Jr. en el Tribunal Electoral del Poder Judicial de la Federación.

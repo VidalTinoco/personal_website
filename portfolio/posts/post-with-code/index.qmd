@@ -1,0 +1,12 @@
+---
+title: "Salpicaduras de oro verde. Efectos del boom aguacatero sobre la desigualdad salarial en Michoacán"
+author: "Vidal Tinoco"
+date: "2023-10-15"
+categories: [DiD, TWFE, Event Study Model]
+image: "image.jpg"
+---
+
+This is a post with executable code.
+
+```{}
+```
